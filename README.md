@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizlobao&label=Profile%20views&color=0e75b6&style=plastic" alt="luizlobao" /> </p>
 
+<div align="center">
+  <a href="https://github.com/luizlobao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlobao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlobao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+![Snake animation](https://github.com/luizlobao/luizlobaoi/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizlobao" alt="luizlobao" /></a> </p>
 
 - 🔭 I’m currently working on **Automação de Tendência**
