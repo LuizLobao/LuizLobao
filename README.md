@@ -10,7 +10,7 @@
 
 <h2 align="center">⚡ Minhas Estastísticas ⚡</h2>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=luizlobao&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=luizlobao&count_private=true&theme=dracula&border_radius=10" alt="streak stats" />
   <br/>
   <img width=390  src="https://github-readme-stats.vercel.app/api?username=luizlobao&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
